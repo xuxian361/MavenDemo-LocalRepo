@@ -1,1 +1,1 @@
-include ':app', ':limousine'
+include ':app', ':limousine', ':nexuslib'

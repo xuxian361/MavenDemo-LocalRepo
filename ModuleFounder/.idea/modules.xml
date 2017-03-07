@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ModuleFounder.iml" filepath="$PROJECT_DIR$/ModuleFounder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/limousine/limousine.iml" filepath="$PROJECT_DIR$/limousine/limousine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nexuslib/nexuslib.iml" filepath="$PROJECT_DIR$/nexuslib/nexuslib.iml" />
     </modules>
   </component>
 </project>
